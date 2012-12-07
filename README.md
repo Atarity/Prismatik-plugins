@@ -1,10 +1,19 @@
-Prismatik-plugins
-=================
+Public repo with Python plugins for Prismatik software
+-------------
 
-Plugins for Prismatik software (just copy any folder to you Prismatic profile dir)
+Prismatik software on [Lightpack project page] (http://code.google.com/p/lightpack/)
 
-###Need to describe:
-* "site-packages" policy
-* Do not commit extermal modules
-* Linux-way linking
-* Branches policy
+###Install:
+* Push "Dowload ZIP" button at the top of [repo main page] (https://github.com/Atarity/Prismatik-plugins)
+* Unzip downloaded archive locally
+* Just copy plugins folders to the Prismatik profile dir, e.g. `C:\Documents and Settings\Atarity\Prismatik\Plugins`
+* Push "Reload plugins" button in Prismatik
+* Read "About" tab if plugin did not work properly
+
+### To committers and contributors:
+1. Do not commit third-party Python modules. Describe all dependancies in plugin readme.txt or directly in "About" section
+2. Add all third-party Python modules you use in `<Prismatik profile>/Plugins/site-packages/` dir
+3. Use "Fork" button if you plan to develop something "hardcore-experimental-not-for-all" feature
+
+###Repo mapping tips and triks:
+Use Linux-way linking in Windows to map specific plugin directly from repo to Prismatik profile dir. Use folder **symbol links** for it (Alt+F6 in Far Manager).
