@@ -6,8 +6,8 @@ Prismatik software on [Lightpack project page] (http://code.google.com/p/lightpa
 ###Install:
 * Push "Dowload ZIP" button at the top of [repo main page] (https://github.com/Atarity/Prismatik-plugins)
 * Unzip downloaded archive locally
-* Just copy plugins folders to the Prismatik profile dir, e.g. `C:\Documents and Settings\Atarity\Prismatik\Plugins` or `/Users/Atarity/.Prismatik/Plugins`
-* Push "Reload plugins" button in Prismatik`
+* Just copy plugins folders to the Prismatik profile dir, e.g. for Win `C:\Documents and Settings\Atarity\Prismatik\Plugins` or in OS X `/Users/Atarity/.Prismatik/Plugins`
+* Push "Reload plugins" button in Prismatik
 * Read "About" tab if plugin did not work properly
 
 ### To committers and contributors:
