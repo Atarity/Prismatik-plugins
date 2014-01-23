@@ -4,7 +4,7 @@ Public repo with Python plugins for Prismatik software
 Prismatik software on [Lightpack project page] (http://code.google.com/p/lightpack/)
 
 ###Install:
-* Push "Dowload ZIP" button at the bottom of the left menu of the [repo main page] (https://github.com/Atarity/Prismatik-plugins)
+* Push "Dowload ZIP" button at the bottom of the right menu of the [repo main page] (https://github.com/Atarity/Prismatik-plugins)
 * Unzip downloaded archive locally
 * Just copy plugins folders to the Prismatik profile dir, e.g. for Win `C:\Documents and Settings\Atarity\Prismatik\Plugins` or in OS X `/Users/Atarity/.Prismatik/Plugins`
 * Push "Reload plugins" button in Prismatik
