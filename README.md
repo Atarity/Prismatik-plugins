@@ -1,5 +1,6 @@
-Public repo with Python plugins for Prismatik software
+Public repo with Python plugins for Prismatik software 
 -------------
+***the plugins compatible with Prismatik 5.9.6 only!***
 
 Prismatik software on [Lightpack project page] (http://code.google.com/p/lightpack/)
 
